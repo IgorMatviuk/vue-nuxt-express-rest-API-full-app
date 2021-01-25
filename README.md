@@ -7,9 +7,9 @@ REST-API
 
 🐢 install and start:
 
-1. npm install
+1. cd vue-nuxt-nodejs-restapi-fullstack-app
 
-2. cd vue-nuxt-nodejs-restapi-fullstack-app
+2. npm install
 
 3. npm run dev 
 
